@@ -26,12 +26,12 @@
     "busboy": "0.3.1",
     "file-type": "12.4.2",
     "http-proxy": "1.18.0",
-    "ipfs": "0.40.0",
+    "ipfs": "0.41.1",
     "ipfsd-ctl": "2.1.0",
     "is-json": "2.0.1",
     "logplease": "1.2.15",
     "per-env": "1.0.2",
-    "superagent": "5.2.1",
+    "superagent": "5.2.2",
     "zlib": "1.0.5"
   },
   "devDependencies": {
